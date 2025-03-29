@@ -8,7 +8,7 @@ terraform {
 
   backend "azurerm" {
     resource_group_name  = "shak0039-githubactions-rg"
-    storage_account_name = "shak0039githubactions"
+    storage_account_name = "ha000070githubactions"
     container_name       = "tfstate"
     key                  = "prod.app.tfstate"
   }

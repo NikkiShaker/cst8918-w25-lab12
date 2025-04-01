@@ -1,8 +1,8 @@
-/*resource "azurerm_resource_group" "app_rg" {
+resource "azurerm_resource_group" "app_rg" {
   name     = "shak0039-a12-rg"
   location = "Canada Central"
 }
-*/
+
 
 resource "azurerm_virtual_network" "vnet" {
   name                = "ha000070-vnet"

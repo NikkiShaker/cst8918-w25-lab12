@@ -1,7 +1,8 @@
 {
-    "name": "branch-main",
-    "issuer": "https://token.actions.githubusercontent.com",
-    "subject": "repo:NikkiShaker/cst8918-w25-lab12:branch:main",
-    "description": "CST8918 Lab12 - GitHub Actions",
-    "audiences": ["api://AzureADTokenExchange"]
-  }
+  "name": "branch-main",
+  "issuer": "https://token.actions.githubusercontent.com",
+  "subject": "repo:NikkiShaker/cst8918-w25-lab12:ref:refs/heads/main",
+  "description": "CST8918 Lab12 - GitHub Actions",
+  "audiences": ["api://AzureADTokenExchange"]
+}
+

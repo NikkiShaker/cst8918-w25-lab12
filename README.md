@@ -1,7 +1,7 @@
 # cst8918-w25-lab12
 
 ## Team Members:
-Donna Tien Ha
+Donna Ha
   - College Username: ha000070
   - GitHub Profile: https://github.com/Donna-Smee
 

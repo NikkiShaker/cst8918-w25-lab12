@@ -1,4 +1,4 @@
-# cst8918-w25-lab12 DUE
+# cst8918-w25-lab12
 
 ## Team Members:
 Donna Tien Ha
